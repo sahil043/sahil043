@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sahil043
-- 👀 I’m interested in java, spring boot, js, strapi, and last but not the least C (cause nothing is better than C !)
+- 👋 Hi, I’m sahil !
+- 👀 I’m interested & learning java, spring boot, js, strapi, and last but not the least C (cause nothing is better than C 🙃)
 - 📫 How to reach me (i guess you've already reached me !)
-- 😄 Pronouns: he/him ! (ofcourse !)
+- 😄 Pronouns: he/him ! (ofCourse!)
 - ⚡ Fun fact: i love linux !
